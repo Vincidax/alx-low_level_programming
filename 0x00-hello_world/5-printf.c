@@ -1,8 +1,8 @@
 #include<stdio.h>
 /**
- * main - ENTRY
- * Print message
- * Return 0 if successful
+ * main - Entry point
+ * 
+ * Return: 0 if successful
  */
 int main(void)
 {
