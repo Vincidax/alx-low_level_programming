@@ -1,5 +1,6 @@
 #include<stdio.h>
 /**
+ * main - ENTRY
  * Print message
  * Return 0 if successful
  */
